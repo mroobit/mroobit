@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello beautiful human ✨ I'm Shannon!
+
+I graduated from Drake University with a degree in computer science. I spent a decade making art, writing comics and fiction, and doing some web dev, then spent 2 years developing a collaborative research platform at Washington University School of Medicine.
+
+I went on sabbatical at the end of 2021: during this time I traveled, built a [game in Go](https://github.com/mroobit/untitled-sidescroller), and tried new-to-me technologies. Recently I completed a batch at the [Recurse Center](https://recurse.com), where I started designing and implementing a non-textual programming language.
+
+- Currently working on [Sketchlang](https://shannondybvig.com/projects/sketchlang/), a sketch-based programming language
+- Currently learning how to train CV models
+- Always reading - ask me about my recent favs 📘
 
 <!--
 **mroobit/mroobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
